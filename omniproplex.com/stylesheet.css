@@ -1,0 +1,37 @@
+style
+html {
+    height: 100%;
+}
+body{background-color:green;
+height: 200px;
+} header{
+    background: green;
+    margin: 50px, 60px, 100px ;
+    padding: 1%;
+    margin: auto;
+  
+}
+p{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+footer{
+    background-color: green;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+
+}
+div{background-color: navajowhite;
+width: 500px;}
+section
+ul{margin: 0;
+padding: 0
+; list-style-type: circle;}
+li{
+    display: inline-block;
+    margin-left: 20px;
+}
+section div{
+    background-color: red;
+}
